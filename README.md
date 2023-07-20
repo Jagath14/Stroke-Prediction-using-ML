@@ -1,5 +1,6 @@
 # Stroke-Prediction-using-ML
 Hands on Machine Learning, pandas, scikit learn
+
 Business Objective: To build a machine learning model for early detection of stroke risk in patients, leading to timely intervention and improved healthcare outcomes.
 
 Approach: Conduct exploratory data analysis to understand data distribution and correlations, preprocess data by handling missing values, encode categorical variables, and balance dataset using SMOTE. Evaluate multiple classification models, perform hyperparameter tuning, and select the best-performing model based on evaluation metrics.
